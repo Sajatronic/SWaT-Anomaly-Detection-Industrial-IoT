@@ -19,6 +19,24 @@ This project implements **six self-supervised and unsupervised anomaly detection
 | **One-Class SVM** | Kernel Method | ROC AUC: 0.79 |
 | **K-Means** | Clustering | ROC AUC: 0.14 |
 
+## 👥 Team Members & Contributions
+
+| Name | Contribution | GitHub |
+|------|--------------|--------|
+| **Saja Rafat Gaber Mahmoud** | Preprocessing & USAD Model | [@Sajatronic](https://github.com/Sajatronic) |
+| **Nourhan Mohsen Mohamed** | EDA & VAE Model | [@nourhan](https://github.com/nourhan03) |
+| **Nada Emad Mahmoud** | Isolation Forest & LSTM Autoencoder | [@nada](https://github.com/NadaEmad2002) |
+| **Aya Ibrahim Ramadan** | One-Class SVM & K-Means | [@aya](https://github.com/ayaibrahimramadan5-ai) |
+
+## 🔗 Individual Notebooks
+
+| Model | Author | Notebook Link |
+|-------|--------|----------------|
+| USAD | Saja | [View Notebook](notebooks/Saja_USAD_Model.ipynb) |
+| VAE | Nourhan | [View Notebook](notebooks/Nourhan_VAE_Model.ipynb) |
+| LSTM + Isolation Forest | Nada | [View Notebook](notebooks/Nada_LSTM_IsolationForest.ipynb) |
+| OC-SVM + K-Means | Aya | [View Notebook](notebooks/Aya_OCSVM_KMeans.ipynb) |
+
 ## 📊 Dataset: SWaT (Secure Water Treatment)
 
 - **Source**: Singapore University of Technology and Design (SUTD)
